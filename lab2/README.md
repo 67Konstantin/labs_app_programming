@@ -42,5 +42,6 @@ def is_divisible_by_three(binary_string: str) -> bool:
 ## Написание unit-тестов
 
 В классе `TestBinaryDivisibleByThree` прописываем тесты значений 
+<img width="1708" height="282" alt="image" src="https://github.com/user-attachments/assets/0eb7bb44-206d-476b-ac2d-ccdd2e16e176" />
 
 И убеждаемся, что все тесты успешны
