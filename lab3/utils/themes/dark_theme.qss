@@ -1,0 +1,12 @@
+QWidget {
+    background-color: #121212;
+    color: #eeeeee;
+    font-family: "Inter";
+    font-size: 11pt;
+}
+
+QLineEdit, QTextEdit {
+    background: #1e1e1e;
+    border: 1px solid #333333;
+    border-radius: 6px;
+}
